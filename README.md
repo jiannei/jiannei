@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Jiannei&show_icons=true&line_height=24"/>
+<img alian="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jiannei&layout=compact&langs_count=8&card_width=286"/>
+
 <!--
 **Jiannei/Jiannei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
