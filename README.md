@@ -1,10 +1,15 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jiannei&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Jiannei&show_icons=true&line_height=24"/>
-<img alian="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jiannei&layout=compact&langs_count=8&card_width=286"/>
+### Hello 👋
+
+🇨🇳 Wuhan,China・🕹Web developer
+
+https://sinan.fun
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=jiannei&label=Profile%20views&color=06b5d4&style=flat&abbreviated=true" alt="jiannei" /></p>
 
 <!--
-**Jiannei/Jiannei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jiannei/jiannei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
